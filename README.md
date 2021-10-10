@@ -1,4 +1,4 @@
-# items.dat-parser
+# items.dat-parser/decoder
 Items.dat parser made with c.
 
 # Warning
